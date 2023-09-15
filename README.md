@@ -1,6 +1,12 @@
 # README
 
-## About
+## About The App
+
+This is going to be a desktop app for a dungeons and dragons character sheet. Characters and stats will be stored and if I'm feeling spicy, I'll also have a search function that hits the DnD API and can fetch rules, monsters, spells, etc.
+
+
+
+## About wails
 
 This is the official Wails React-TS template.
 
